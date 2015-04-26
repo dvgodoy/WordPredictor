@@ -1,0 +1,18 @@
+Overall top-3 score:     21.35 %
+Overall top-1 precision: 15.47 %
+Overall top-3 precision: 26.46 %
+Average runtime:         0.53 msec
+Total memory used:       157.44 MB
+
+Dataset details
+ Dataset "blogs" (599 lines, 14587 words, hash 14b3c593e543eb8b2932cf00b646ed653e336897a03c82098b725e6e1f9b7aa2)
+  Score: 18.29 %, Top-1 precision: 13.40 %, Top-3 precision: 22.66 %
+ Dataset "quizzes" (20 lines, 323 words, hash 07697c9cf45891a1f6da633299f35522711a17e65136ba261702e78e0abd09e1)
+  Score: 26.84 %, Top-1 precision: 18.48 %, Top-3 precision: 33.99 %
+ Dataset "tweets" (793 lines, 14011 words, hash 7fa3bf921c393fe7009bc60971b2bb8396414e7602bb4f409bed78c7192c30f4)
+  Score: 18.93 %, Top-1 precision: 14.52 %, Top-3 precision: 22.73 %
+
+
+R version 3.1.2 (2014-10-31), platform x86_64-w64-mingw32/x64 (64-bit)
+Attached non-base packages:   data.table (v1.9.4), digest (v0.6.7), fastmatch (v1.0-4), reshape (v0.8.5), sqldf (v0.4-10), RSQLite (v1.0.0), DBI (v0.3.1), gsubfn (v0.6-6), proto (v0.3-10), stringi (v0.4-1), stylo (v0.5.9)
+Unattached non-base packages: ape (v3.2), chron (v2.3-45), class (v7.3-11), cluster (v1.15.3), compiler (v3.1.2), e1071 (v1.6-4), grid (v3.1.2), lattice (v0.20-29), nlme (v3.1-118), pamr (v1.55), plyr (v1.8.1), Rcpp (v0.11.3), reshape2 (v1.4.1), splines (v3.1.2), stringr (v0.6.2), survival (v2.37-7), tcltk2 (v1.2-11), tools (v3.1.2), tsne (v0.1-2)
